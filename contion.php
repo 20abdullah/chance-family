@@ -1,8 +1,8 @@
 <?php 
-$server ="localhost";
-$username ="id19679408_abdullah";
-$password ="9Yb)y{TU5Ww={muw";
-$dbname ="id19679408_data";
+$server ="sql8.freesqldatabase.com";
+$username ="sql8525610";
+$password ="NFQQtP6H1U";
+$dbname ="sql8525610";
 
 $conn =mysqli_connect($server,$username,$password,$dbname);
 ?>
